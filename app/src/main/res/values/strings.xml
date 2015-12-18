@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UploadPhotoTwitter</string>
+
+    <string name="button_change_photo_facebook">change photo facebook</string>
+    <string name="button_twitter">change photo twitter</string>
+    <string name="failed_chang_photo">You need add photo and login social network</string>
+    <string name="changed_twitter_photo">Changed twitter photo</string>
+</resources>
